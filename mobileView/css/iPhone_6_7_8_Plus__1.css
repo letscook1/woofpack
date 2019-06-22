@@ -1,0 +1,132 @@
+body {
+	margin: 0;
+	padding: 0;
+}
+:root {
+	--web-view-ids: iPhone_6_7_8_Plus___1;
+}
+#iPhone_6_7_8_Plus___1 * {
+	margin: 0;
+	padding: 0;
+}
+#iPhone_6_7_8_Plus___1 {
+	position: absolute;
+	box-sizing: border-box;
+	background: #E5E5E5;
+	width: 414px;
+	height: 736px;
+	background-color: rgba(121,214,242,0.659);
+	overflow: hidden;
+	margin: 0;
+	padding: 0;
+	opacity: 1;
+	--web-view-name: iPhone 6/7/8 Plus – 1;
+	--web-view-id: iPhone_6_7_8_Plus___1;
+	--web-enable-deep-linking: true;
+}
+#Group_422 {
+	opacity: 1;
+	position: absolute;
+	width: 274.19px;
+	height: 327.486px;
+	left: 70px;
+	top: 179px;
+	overflow: visible;
+}
+#Path_357 {
+	opacity: 1;
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 1));
+	fill: url(#LinearGradientFill1);
+}
+.Path_357 {
+	transform: matrix(1,0,0,1,0,0);
+	overflow: visible;
+	position: absolute;
+	top: 0px;
+	left: 11.009px;
+	width: 281.181px;
+	height: 265.784px;
+}
+#Woof_Pack {
+	opacity: 1;
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.678));
+	position: absolute;
+	left: 0px;
+	top: 240.486px;
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+	overflow: visible;
+	width: 265px;
+	white-space: nowrap;
+	line-height: 86.4000015258789px;
+	margin-top: -7.200000762939453px;
+	text-align: left;
+	font-family: Bebas Neue;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 72px;
+	color: rgba(240,241,247,1);
+	letter-spacing: 0.33px;
+}
+#Component_1 {
+	opacity: 1;
+	position: absolute;
+	width: 256px;
+	height: 60px;
+	left: 79px;
+	top: 523px;
+	overflow: visible;
+}
+#Rectangle_4 {
+	opacity: 1;
+	fill: rgba(218,219,230,1);
+}
+.Rectangle_4 {
+	position: absolute;
+	overflow: visible;
+	width: 256px;
+	height: 56px;
+	left: 0px;
+	top: 0px;
+}
+#Book_a_service {
+	opacity: 1;
+	position: absolute;
+	left: 49px;
+	top: 17px;
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+	overflow: visible;
+	width: 159px;
+	white-space: nowrap;
+	line-height: 32px;
+	margin-top: -4px;
+	text-align: center;
+	font-family: Basic Sans;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 24px;
+	color: rgba(84,88,113,1);
+}
+#Sign_in_with_FaceBook__ {
+	opacity: 1;
+	position: absolute;
+	left: 95px;
+	top: 605px;
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+	overflow: visible;
+	width: 225px;
+	white-space: nowrap;
+	line-height: 32px;
+	margin-top: -6px;
+	text-align: left;
+	font-family: Henriette;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 20px;
+	color: rgba(255,255,255,1);
+}
